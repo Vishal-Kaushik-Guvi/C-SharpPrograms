@@ -1,0 +1,15 @@
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\bin\Debug\net9.0\C-SharpPrograms.exe
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\bin\Debug\net9.0\C-SharpPrograms.deps.json
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\bin\Debug\net9.0\C-SharpPrograms.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\bin\Debug\net9.0\C-SharpPrograms.dll
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\bin\Debug\net9.0\C-SharpPrograms.pdb
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.sourcelink.json
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.dll
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\refint\C-SharpPrograms.dll
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.pdb
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\C-SharpPrograms.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\C-SharpPrograms\obj\Debug\net9.0\ref\C-SharpPrograms.dll
